@@ -8,7 +8,7 @@ This repository contains various deep learning models trained for the classifica
 
 The models in this project are trained on a **custom cauliflower dataset**. This dataset is crucial for distinguishing between different states or types of cauliflower, which can be valuable for agricultural applications, quality control, or research.
 
-📎 **Dataset Link**: [Custom Cauliflower Dataset on Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/paramjayeshkansagra/custom-cauliflower-dataset)) <!-- Replace with actual link -->
+📎 **Dataset Link**: [Custom Cauliflower Dataset on Kaggle](https://www.kaggle.com/datasets/paramjayeshkansagra/custom-cauliflower-dataset)
 
 ---
 
@@ -74,8 +74,11 @@ cd your-repository-name
 
 ### 2. Download the Dataset
 
-Download the dataset from the Kaggle link provided above and place it in a suitable directory.  
-**Note**: You may need to adjust file paths in the notebooks accordingly.
+Download the dataset from Kaggle:  
+📥 [Custom Cauliflower Dataset](https://www.kaggle.com/datasets/paramjayeshkansagra/custom-cauliflower-dataset)
+
+Unzip it and place the folder in your project directory.  
+**Note**: You may need to modify the data paths in the notebooks accordingly.
 
 ### 3. Launch Jupyter Notebook
 
